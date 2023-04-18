@@ -1,0 +1,2 @@
+# Repositório GitHub - Vazio (Apenas para Verificação da EBAC)
+Este repositório GitHub está vazio e serve apenas como uma verificação para o exercício da EBAC. Não contém nenhum código ou projeto relevante.
